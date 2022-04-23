@@ -1,0 +1,17 @@
+#title{
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: bisque;
+    margin:auto;
+    color: blueviolet;
+}
+.contact{
+    padding: 20px;
+    border:green solid 10px;
+    border-collapse: collapse;
+}
+.table{
+    border: red solid 20px;
+    border-collapse: collapse;
+}
